@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #484848;
+    background-color: #3B322C;
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ section {
 
 .menu {
     
-    background-color:  #b300b3;
+    background-color:  #4E6151;
     height: 5rem;
     display: flex;
     justify-content: space-between;    
@@ -51,7 +51,7 @@ section {
 
 .item:hover {
     cursor: pointer;
-    background-color: #ff4dff;
+    background-color: #5E8C61;
     color: #ffe6ff;
 }
 
@@ -119,7 +119,7 @@ section {
 }
 
 footer {
-    background-color:  #b300b3;
+    background-color:  #4E6151;
     text-align: center;
     height: 4rem;
 }
