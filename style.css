@@ -51,8 +51,12 @@ section {
 
 .item:hover {
     cursor: pointer;
-    background-color: #5E8C61;
+    background-color: #2E2C2F;
     color: #ffe6ff;
+}
+
+.item a {
+    color:  #ffe6ff;
 }
 
 
@@ -118,16 +122,16 @@ section {
     margin: 10px;
 }
 
-footer {
+.footer {
     background-color:  #4E6151;
     text-align: center;
     height: 4rem;
 }
 
-.footer-info {
+.footer-info p {
     font-size: 1.2rem;
     color: #CFCACA;
-    margin-top: 20px;
+    margin: 20px;
     font-weight: bold;
 }
 
