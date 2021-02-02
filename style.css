@@ -141,13 +141,12 @@ section {
 
 .footer {
     background-color:  #4E6151;
-    align-items: center;
-    padding: 30px;
+    padding: 20px;
     height: 4rem;
 }
 
 .footer-info p {
-    font-size: 1.2rem;
+    text-align: center;
     color: #CFCACA;
     margin: 0 auto;
     font-weight: bold;
@@ -187,10 +186,19 @@ section {
     
     .section-content-projects {
         flex-direction: column;
+        align-items: center;
+    }
+
+    .project-card {
+        width: 60%;
     }
 
     .footer {
-        font-size: 0.5rem;
+        align-items: center;
+    }
+
+    .footer p {
+        font-size: 0.7rem;
     }
 
 
