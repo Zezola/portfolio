@@ -201,5 +201,13 @@ section {
         font-size: 0.7rem;
     }
 
+    .tech {
+        padding: 20px;
+    }
+
+    .project-title h2 {
+        font-size: 20px;
+    }
+
 
 }
